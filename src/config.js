@@ -1,7 +1,7 @@
 import { createWeb3Modal, defaultConfig } from '@web3modal/ethers'
 
 // 1. Get projectId from WalletConnect Cloud
-const projectId = '85709bbcf26a349a0eedc608f0ac2753' // Replace with your actual project ID
+const projectId = 'c1ba86e6400a6920a64faddedecdb7f1' // Replace with your actual project ID
 
 // 2. Define chains
 const bscMainnet = {
